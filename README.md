@@ -4,7 +4,8 @@ Hi 👋 My name is Anaïs Saï
 A french IT Developer student 👩🏻‍🎓🚀
 -----------------------------
 
-Currently studying IT development in apprenticeship in Bordeaux. I work since 2020 as an Angular Front-end developer. My goal is to be a full stack developer, so I'm working on different projects including front-end and back-end with Object Oriented Programming languages such as C# with ASP.NET core.
+Currently studying IT development in apprenticeship in Bordeaux. I work since 2020 as an Angular Front-end developer. <br/>
+My goal is to be a full stack developer, so I'm working on different projects including front-end and back-end with Object Oriented Programming languages such as C# with ASP.NET core.
 
 * 🌍  I'm based in Bordeaux - France 🇫🇷🥖🍷
 * ✉️  You can contact me at [anaissai.contact@gmail.com](mailto:anaissai.contact@gmail.com)
